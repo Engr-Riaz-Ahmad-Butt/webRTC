@@ -1,0 +1,5 @@
+# Redirect from old path to new path
+/old-path /new-path 301
+
+# Redirect all paths to the main page (useful for single-page applications)
+/* /index.html 200
